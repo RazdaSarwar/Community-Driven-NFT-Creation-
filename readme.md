@@ -8,7 +8,9 @@ This project aims to build a decentralized autonomous organization (DAO) that al
 
 ## Project Vision
 The vision of this project is to create a collaborative environment where NFT enthusiasts and creators can work together to develop high-quality digital assets. Through decentralized governance, the community has direct influence over which NFTs get funded and developed, ensuring collective ownership and engagement.
-Contract Address: 0x49b6a7eec90603009279d1d902e61a1c9f47b9a1
+
+## Contract Address: 0x49b6a7eec90603009279d1d902e61a1c9f47b9a1
+
 ## Future Scope
 - **Integration with NFT Marketplaces**: Enable direct listing of funded NFTs for sale.
 - **Community Incentives**: Implement reward mechanisms for active participants.
