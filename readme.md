@@ -23,7 +23,5 @@ The vision of this project is to create a collaborative environment where NFT en
 - **Voting Mechanism**: Users can vote on proposals, ensuring a democratic selection process.
 - **Decentralized Governance**: The smart contract ensures transparent and fair decision-making.
 - **Blockchain Transparency**: All proposals and votes are recorded on-chain for accountability.
-
-## Smart Contract Address
-*(To be deployed on Ethereum or another blockchain network – update this section once deployed.)*
+<img width="1440" alt="Screenshot 2025-03-17 at 3 22 35 PM" src="https://github.com/user-attachments/assets/9de841e2-f07d-4038-8bbe-40287665c8db" />
 
